@@ -1,0 +1,5 @@
+*.exe
+.vscode
+updates
+dist
+release.sh
